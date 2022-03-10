@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #444;
+  color: #fff;
+}
+header {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 10vh;
+  background: #333;
+}
+main {
+  height: 70vh;
+  overflow: scroll;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  height: 20vh;
+  background: #333;
+}
